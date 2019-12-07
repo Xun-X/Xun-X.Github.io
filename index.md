@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 歡迎訪問我的 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Xun-X/xun-x.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我將會在這裡發佈一些原創，編譯、整合、便攜綠化的應用程式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 開放目的
 
-### Markdown
+純屬興趣愛好，發佈應用，提供他人使用或學習、測試。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 安全方面
 
-```markdown
-Syntax highlighted code block
+絕不加竊取、侵害他人數據信息的惡意指令 編譯、整合、便攜綠化他人的應用本身存在問題那就不好說了，沒有絕對的安全，只有相對的安全
 
-# Header 1
-## Header 2
-### Header 3
+### 發佈的軟件類型
 
-- Bulleted
-- List
+基本都會發佈WINDOWS的應用程式、盡可能都會製成單個EXE應用程式，便於小白、懶得折騰的人測試、學習使用。
 
-1. Numbered
-2. List
+### 關於[被害妄想症]的決絕方案
 
-**Bold** and _Italic_ and `Code` text
+方案1：關閉這個頁面
 
-[Link](url) and ![Image](src)
-```
+方案2：找其他人幫你試毒
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+方案3：求助其他大神幫您分析或反編譯
 
-### Jekyll Themes
+方案4：上傳到 `http://habo.qq.com` 進行分析（看不懂求助其他大神）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xun-X/xun-x.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+方案5：上傳到 `http://www.virscan.org` 在線病毒掃描（有報毒就別用了，有人想害你）
