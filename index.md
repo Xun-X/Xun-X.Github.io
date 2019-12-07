@@ -9,7 +9,7 @@
 
 編譯、整合、便攜綠化他人的應用本身存在問題那就不好說了，沒有絕對的安全，只有相對的安全
 
-### 發佈的軟件類型
+### 類型
 基本都會發佈WINDOWS的應用程式、盡可能都會製成單個EXE應用程式，便於小白、懶得折騰的人測試、學習使用。
 
 ### 關於[被害妄想症]的決絕方案
@@ -22,4 +22,7 @@
 方案4：上傳到 `http://habo.qq.com` 進行分析（看不懂求助其他大神）
 
 方案5：上傳到 `http://www.virscan.org` 在線病毒掃描（有報毒就別用了，有人想害你）
+
+### 已發佈的軟件：
+1. [[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 工具
 
