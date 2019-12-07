@@ -18,19 +18,19 @@
 ### 關於 [被害妄想症] 的完美解決方案
 方案1：關閉這個頁面（強烈推薦）
 
-方案2：找其他人幫你試“毒”
+方案2：`找其他人幫你試 “毒” `
 
-方案3：求助其他大神幫您分析或反編譯
+方案3：`求助其他大神幫您分析或反編譯`
 
-方案4：上傳到 `http://habo.qq.com` 進行分析
+方案4：`上傳到 http://habo.qq.com 進行分析`
 
-方案5：上傳到 `http://www.virscan.org` 在線病毒掃描（有報毒就別用了，有人想害你）
+方案5：`上傳到 http://www.virscan.org 在線病毒掃描（有報毒就別用了，有人想害你）`
 .
 
 .
 
 .
 
-## 已發佈的軟體：
-1. [[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 便攜版工具(免設置，免指令)
+## 已發佈的軟體/程式：
+[[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 便攜版工具(免設置，免指令)
 
