@@ -24,5 +24,5 @@
 方案5：上傳到 `http://www.virscan.org` 在線病毒掃描（有報毒就別用了，有人想害你）
 
 ### 已發佈的軟件：
-1. [[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 工具
+1. [[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 便攜版工具(免設置，免指令)
 
