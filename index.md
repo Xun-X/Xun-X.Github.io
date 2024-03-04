@@ -33,4 +33,6 @@
 
 ## 已發佈的軟體/程式：
 [[Stair-Speedtest-Portable]](https://xun-x.github.io/Stair-Speedtest-Portable/ "[Stair-Speedtest-Portable]")  SSR测速/V2Ray测速/订阅测速 便攜版工具(免設置，免指令)
+[[Subconverter-Portable
+]](https://xun-x.github.io/Subconverter-Portable/ "[Stair-Speedtest-Portable]")  Clash 订阅转换器、Clash 订阅转换、负载均衡、订阅转换工具绿色版、订阅转换单EXE版
 
